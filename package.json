@@ -21,10 +21,6 @@
     "url": "https://github.com/shankscript/wasm-starter-kit/issues"
   },
   "homepage": "https://github.com/shankscript/wasm-starter-kit#readme",
-  "devDependencies": {
-    "webpack": "^4.16.3",
-    "webpack-cli": "^3.1.0"
-  },
   "dependencies": {
     "fs-extra": "^7.0.0"
   }
