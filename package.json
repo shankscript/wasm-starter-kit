@@ -1,9 +1,11 @@
 {
   "name": "wasm-starter-kit",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
+    "build": "node build",
+    "start": "emrun --no_browser --port 8888 --serve_root ./dist .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -14,9 +16,12 @@
     "wasm"
   ],
   "author": "Shashank Sharma",
-  "license": "ISC",
+  "license": "",
   "bugs": {
     "url": "https://github.com/shankscript/wasm-starter-kit/issues"
   },
-  "homepage": "https://github.com/shankscript/wasm-starter-kit#readme"
+  "homepage": "https://github.com/shankscript/wasm-starter-kit#readme",
+  "dependencies": {
+    "fs-extra": "^7.0.0"
+  }
 }
