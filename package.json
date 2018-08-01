@@ -1,6 +1,6 @@
 {
   "name": "wasm-starter-kit",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A bare minimal kit to start working with Webassembly.",
   "main": "index.js",
   "scripts": {
@@ -20,7 +20,12 @@
     "webassembly-tutorial",
     "c",
     "cpp",
-    "debug"
+    "debug",
+    "starter",
+    "starter kit",
+    "starter-kit",
+    "bootstrap",
+    "boilerplate"
   ],
   "author": "Shashank Sharma",
   "license": "",
