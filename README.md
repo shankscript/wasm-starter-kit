@@ -15,4 +15,4 @@ npm start
 browse - http://localhost:8888/
 ```
 ### Demo
-(Link](https://shankscript.github.io/wasm-starter-kit/dist/)
+[Link](https://shankscript.github.io/wasm-starter-kit/dist/)
