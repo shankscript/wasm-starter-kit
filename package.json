@@ -13,7 +13,14 @@
     "url": "git+https://github.com/shankscript/wasm-starter-kit.git"
   },
   "keywords": [
-    "wasm"
+    "wasm",
+    "wasm-example "
+    "web",
+    "webassembly",
+    "webassembly-tutorial",
+    "c",
+    "cpp",
+    "debug"
   ],
   "author": "Shashank Sharma",
   "license": "",
