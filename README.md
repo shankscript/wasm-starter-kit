@@ -1,5 +1,6 @@
-# Webassembly starter kit
 ![image](https://webassembly.org/css/webassembly.svg)
+
+# Webassembly starter kit
 A bare minimal kit to start working with Webassembly.
 
 ## Prerequisite
