@@ -1,6 +1,5 @@
 # Webassembly starter kit
 A bare minimal kit to start working with Webassembly.
-You can use the  to maintain and preview the content for your website in Markdown files.
 
 ## Prerequisite
 - Install Emscripten SDK -[Emscripten Installation](https://webassembly.org/getting-started/developers-guide/)
