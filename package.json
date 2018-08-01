@@ -1,7 +1,7 @@
 {
   "name": "wasm-starter-kit",
   "version": "1.0.1",
-  "description": "",
+  "description": "A bare minimal kit to start working with Webassembly.",
   "main": "index.js",
   "scripts": {
     "build": "node build",
